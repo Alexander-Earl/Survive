@@ -1,0 +1,63 @@
+<html>
+<body>
+<p>
+The game consists of 4 different playable Characters consisting of two different types, Warriors and Magicians.<br><br>
+Each playable character will be given an inventory which can be used to take items of enemies across town.<br><br>
+The aim of the game is to walk to the other end of town (30 miles) alive while fighting off enemies. If you make it to the end of town you win.<br><br>
+</p>
+<p>
+Playable Characters:<br><br>
+Warrior: Warriors have the ability to collect Power Points (Mana) on every attack. 5 Power Points can equal a Power Attack which is 5 times regular attack damage of equipped weapon.
+<br><br>	
+	<p>Attacking Warrior: Start the game with a Starting Sword, Healing Potion and Damage Potion.</p>
+	<p>Defensive Warrior: Start the game with a 1920s Shield and Healing Potion.</p>
+<br>
+Magician: Magicians have the ability to increase Steal Points (Mana). When the Steal Points reaches 5 you have the ability to steal an item of your choice from the enemy's inventory.
+<br><br>
+	<p>Attacking Magician: Start the game with a Healing Potion.</p>
+	<p>Defensive Magician: Start the game with a Damage Potion.</p>
+</p>
+
+<p><br>
+Non-playable characters:<br><br>
+Enemy:<br>
+Are either Zombies or Monsters.<br>
+All enemies have an inventory of 3 items in size.<br>
+Once you defeat an enemy you can take all of his remaining items.<br>
+</p>
+<p><br>
+Monsters:<br>
+Have the ability to:<br>
+	Attack using their equipped weapon.<br>
+	Use potions within the inventory.<br>
+	Bite. (Biting consists of an random damage attack between 5-25 damage.)<br>
+</p>
+<p><br>
+Zombies:<br>
+Have the ability to:<br>
+	Attack using their equipped weapon.<br>
+	Use potions within their inventory.<br>
+<br>
+</p>
+<p>
+Items in the game:<br>
+'x' refers to the amount given depending on where you are in the game.<br>
+Earlier parts of the game mean x will be lower, later stages means 'x' will be higher.<br>
+<br>
+</p>
+<p>
+Potions:<br>
+	Healing Potion - Increases your health by 'x' amount and contains 'x' ml.<br>
+	Damage Potion - Decreased target's health by 'x' amount and contains 'x' ml.<br><br>
+Sword:<br>
+	Starting Sword - Attacking item given to Attacking Warriors at the beginning of the game. Causes 10 damage.<br>
+	Zombie Sword - Attacking item which has 'x' damage.<br><br>
+Shield<br>
+	1920s Shield - Attacking item which has 'x' damage.<br>
+	1950s Shield - Attacking item which has 'x' damage.<br><br>
+Hands<br>
+	If you are not given a starting weapon, then you will use your hands in battle.<br>
+	Hands have a base damage of 10.<br>
+</p>
+</body>
+</html>
